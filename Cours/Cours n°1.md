@@ -40,7 +40,7 @@ La requête HTTP:
 - Ligne de requête (*format : requête URL-voulue HTTP-version*)
 - En-têtes (0 ou plus)
 - < ligne blanche>
-- Corps de la requête (*présent uniquement pour un POST*
+- Corps de la requête (*présent uniquement pour un POST*)
 
 Trois requêtes distinctes :
 - la requête `GET`
