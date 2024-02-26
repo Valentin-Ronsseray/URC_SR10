@@ -6,7 +6,6 @@
 		- [[#I.1. Web|I.1. Web]]
 				- [[#Définition (*Web*)|Définition (*Web*)]]
 					- [[#Remarque|Remarque]]
-					- [[#Note manuscrite|Note manuscrite]]
 		- [[#I.2. HTTP : Requêtes/Réponses|I.2. HTTP : Requêtes/Réponses]]
 			- [[#I.2.1. Requêtes|I.2.1. Requêtes]]
 			- [[#I.2.2. Réponses|I.2.2. Réponses]]
@@ -26,8 +25,7 @@ Le *Web* correspond à un système d'information hyper-média réparti. Il est c
 ###### Remarque
 -  Dans le protocole HTTP, on a un client et un serveur.
 - Une machine peut être à la fois client et serveur.
-###### Note manuscrite
-
+![[InsertionObsidian_annoté 1.png]]
 ### I.2. HTTP : Requêtes/Réponses
 
 HTTP transporte des données de type MIME. Il s'agit d'un codage en binaire pour les textes, images, documents, etc.
