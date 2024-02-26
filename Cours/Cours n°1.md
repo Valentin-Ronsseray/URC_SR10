@@ -22,8 +22,9 @@ Le *Web* correspond à un système d'information hyper-média réparti. Il est c
 - **HTML** : (*HyperText Markup Language*)
 - **URL** : (*Uniform Resource Locator*)
 - **HTTP** : (*HyperText Transfer Protocol*)
+
 ###### Remarque
--  Dans le protocole HTTP, on a un client et un serveur.
+- Dans le protocole HTTP, on a un client et un serveur.
 - Une machine peut être à la fois client et serveur.
 ![[InsertionObsidian_annoté 1.png]]
 ### I.2. HTTP : Requêtes/Réponses
@@ -54,7 +55,7 @@ Codes de réponse suite à une requête. Problème si ce code est compris dans l
 #### I.2.4. Cookies
 
 ##### Définition (*Cookie*)
-Il s'agit d'un fichier stocké par le client. Il permet au serveur Web de reconnaitre les clients d'une page web à l'autre. Ce sont des spécifications de HTTP
+Il s'agit d'un fichier stocké par le client. Il permet au serveur Web de reconnaitre les clients d'une page web à l'autre. Ce sont des spécifications de HTTP.
 
 #### I.2.5. HTTPS
 
