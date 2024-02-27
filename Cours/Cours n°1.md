@@ -14,6 +14,8 @@
 				- [[#Définition (*Cookie*)|Définition (*Cookie*)]]
 			- [[#I.2.5. HTTPS|I.2.5. HTTPS]]
 			- [[#I.2.6. Limitations de HTTP|I.2.6. Limitations de HTTP]]
+		- [[#I.3. HTML : Principes de base|I.3. HTML : Principes de base]]
+			- [[#I.3.1. Formulaires|I.3.1. Formulaires]]
 
 ## I. Le Web : présentation générale
 ### I.1. Web
@@ -64,3 +66,26 @@ Les requêtes et les réponses sont chiffrées (couche SSI ou TLS).
 #### I.2.6. Limitations de HTTP
 
 Le serveur ne peut pas contacter le client tant que ce dernier n'a pas émis de requête.
+
+### I.3. HTML : Principes de base
+
+> [!PDF|yellow] [[CoursSR10-Introduction web.pdf#page=42&selection=42,0,46,32&color=yellow|CoursSR10-Introduction web, page 42]]
+>![[GI02/SR10/Cours/Figures/InsertionObsidian_annoté.png]]
+
+> [!PDF|yellow] [[CoursSR10-Introduction web.pdf#page=48&selection=5,1,10,1&color=yellow|CoursSR10-Introduction web, page 48]]
+> > <! … --> 
+> 
+> La syntaxe n'est pas la bonne : c'est `<!-- ... -->` qu'il faut utiliser
+
+> [!PDF|yellow] [[CoursSR10-Introduction web.pdf#page=49&selection=51,0,51,17&color=yellow|CoursSR10-Introduction web, page 49]]
+> > Un lien "relatif"
+> 
+> Le prof veut des liens relatifs dans les projets.
+
+#### I.3.1. Formulaires
+
+> [!PDF|yellow] [[CoursSR10-Introduction web.pdf#page=53&selection=24,0,24,3&color=yellow|CoursSR10-Introduction web, page 53]]
+> > GET
+> 
+> Les données sont envoyées par URL. On peut utiliser `POST` pour envoyer les données dans le corps de la requête.
+
