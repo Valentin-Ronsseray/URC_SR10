@@ -6,11 +6,12 @@ Accueil
 		- #> Accueil
 	- Page candidat
 		- Liste d'offres
-			- Offre
-				- Candidature 
-			- #> Offre/Candidature
+			- *Offre*
+				- *Candidature* 
+			- #> Offre/Candidature  
 		- Liste de candidatures
 		- Page recruteur
+		- *Paramètres/Profil*
 		
 	- Centre de contrôle admin
 		- Gestion des utilisateurs
